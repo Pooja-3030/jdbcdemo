@@ -11,7 +11,7 @@ public class JDBCApplication {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello to Git");
+		
 		Account account = new Account();
         account.setAccountId("123456789");
         account.setAccountHolderName("pooja");
